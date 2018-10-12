@@ -124,3 +124,12 @@
   
 # Adjunto el URL de mi proyecto:
   url:   http://186.64.118.50/~mppmolina
+  
+# Adjunto Usuario y clave de Wordpress correspondiente a mi Proyecto:
+
+  NOMBRE DE USUARIO:
+  proyecto_2018
+
+  CLAVE:
+  3Sv)!Z^sMj)zxh)NMe
+  
