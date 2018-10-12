@@ -1,14 +1,14 @@
     PROYECTO FINAL
 
 
-##  IntroducciÛn:
+##  Introducci√≥n:
     ============
 
 ##  Fecha:
     -----
-### - CreaciÛn de proyecto:
+### - Creaci√≥n de proyecto:
 ### - Inicio:  Lunes 25 - 06 - 2018
-### - TÈrmino:
+### - T√©rmino:
 
 #  Contacto:
     --------
@@ -23,63 +23,63 @@
 
 ## - Tema seleccionado:
 ##   Vida sana en la comuna de Quilicura.
-## - ¡rea:
+## - √Årea:
 ##   Clases de YOGA
-## - Nombre de la p·gina:
+## - Nombre de la p√°gina:
 ##   Ashtayoga Shala
 
 #   Layout:
    =======
 ##  El estilo es One Page Websites.
 
-##  La p·gina est· compuesta por secciones;
+##  La p√°gina est√° compuesta por secciones;
     Inicio
     Nosotros
     Clases
-    GalerÌa
+    Galer√≠a
     Contacto
 
-##  La primera secciÛn es el Inicio;
-    Barra con Logo, DirecciÛn y Mail
+##  La primera secci√≥n es el Inicio;
+    Barra con Logo, Direcci√≥n y Mail
     Con un banner
     Con imagen de fondo
     Nombre del sitio
-    Barra con los Men˙s
-    Una descripcÌon
+    Barra con los Men√∫s
+    Una descripc√≠on
     Logo del sitio
 
-##  La segunda secciÛn es Nosotros;
+##  La segunda secci√≥n es Nosotros;
     Contiene una imagen de fondo
-    InformaciÛn
-    DescripciÛn de la disciplina
+    Informaci√≥n
+    Descripci√≥n de la disciplina
     Imagen 
     Logo
 
-##  La tercera secciÛn es Clases;
+##  La tercera secci√≥n es Clases;
     Imagen de fondo
-    InformaciÛn de precios y horarios
-    DescripÌÛn de las clases
+    Informaci√≥n de precios y horarios
+    Descrip√≠√≥n de las clases
 
-##  La cuarta secciÛn es GalerÌa;
+##  La cuarta secci√≥n es Galer√≠a;
     Imagen de fondo
-    Carrusel con im·genes de la instructora
-    InformaciÛn sobre la Instructora
-    Carrusel con im·genes de las clases
-    DescripciÛn de las clases
+    Carrusel con im√°genes de la instructora
+    Informaci√≥n sobre la Instructora
+    Carrusel con im√°genes de las clases
+    Descripci√≥n de las clases
 
-##  La quinta secciÛn es Contacto;
+##  La quinta secci√≥n es Contacto;
     Imagen de fondo
     Link a Facebbok 
     Link a Mail
     Mapa del lugar
-    Barra con Logo, DirecciÛn y Mail
+    Barra con Logo, Direcci√≥n y Mail
 
 
 #  Objetivos:
     =========
 ## - Interfaz UI:
 
-###  Desarrollada por tecnologÌas:
+###  Desarrollada por tecnolog√≠as:
 1. HTML
 2. CSS: 
    Bootstrap
@@ -95,20 +95,20 @@
    Jquery
    Responsiveslides
 
-###  DiseÒo flexible con margen de adaptabilidad.
-###  DiseÒo visual con im·genes y textos.
+###  Dise√±o flexible con margen de adaptabilidad.
+###  Dise√±o visual con im√°genes y textos.
 ###  Elementos claros y convencionales, para responder a la familiaridad.
-###  Elementos funcionales, eficientes para completar tareas correcta y r·pidamente.
-###  Esturctura responde clara y lÛgicamente una gerarquÌa visual.
+###  Elementos funcionales, eficientes para completar tareas correcta y r√°pidamente.
+###  Esturctura responde clara y l√≥gicamente una gerarqu√≠a visual.
 ###  Botones para seleccionar secciones.
 
 ## - Interfaz UX:
 
-###  Im·genes y colores seleccionados para aportar armonÌa, equilibrio, paz y tranquilidad.
-###  Textos claros, con informaciÛn concreta y tips correspondientes al Yaoga y todo lo que lo conforma.
+###  Im√°genes y colores seleccionados para aportar armon√≠a, equilibrio, paz y tranquilidad.
+###  Textos claros, con informaci√≥n concreta y tips correspondientes al Yaoga y todo lo que lo conforma.
 ###  Horarios y precios de las clases.
-###  GalerÌas de fotos.
-###  InformaciÛn sobre los instructores.
+###  Galer√≠as de fotos.
+###  Informaci√≥n sobre los instructores.
 ###  Datos de contacto y formularios para comentarios.
 
 ![](images/maqueta-1.png)
@@ -117,4 +117,10 @@
 
 ![](images/maqueta-3.png)
 
-   https://sundarkaur.github.io/entregable-2/.
+
+
+# Adjunto el link del video de mi Proyecto  en Youtube:
+  https://www.youtube.com/channel/UChlYJEZGanOaW_6tCUBlNkw?view_as=subscriber
+  
+# Adjunto el URL de mi proyecto:
+  url:   http://186.64.118.50/~mppmolina
